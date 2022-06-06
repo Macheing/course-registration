@@ -1,1 +1,1 @@
-# course-registration
+### Simple course-registration program in Django
